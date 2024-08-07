@@ -1,1 +1,0 @@
-# Blood-Management-System-DBMS
