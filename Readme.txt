@@ -19,4 +19,4 @@ Password: Test@123
 Donor Credential
 Username: dns@gmail.com
 Password: Test@123
-Or Register a new user.
+Or Register a new users .
